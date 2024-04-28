@@ -8,4 +8,4 @@ Basit, sade ve şık ekranları ile kullanım kolaylığı sağlayan Shadowing A
 
 e-Mail For Support: spreaderapp@gmail.com
 
-AppStore App Link: https://apps.apple.com/us/developer/berat-ridvan-asilturk/id1709821684
+AppStore App Link: https://apps.apple.com/us/app/shadowing-app-speech-practice/id6471819160?platform=iphone
